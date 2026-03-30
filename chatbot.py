@@ -31,3 +31,5 @@ def chatbot():
             print("Bot: Sorry, I didn't understand that. Please try another question.")
 
 chatbot()
+
+print("Welcome to AI Bot")
